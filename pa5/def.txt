@@ -1,0 +1,4 @@
+SUM	MACRO	-
+-	LDA	#5
+-	ADD	#10
+-	STA	2000
